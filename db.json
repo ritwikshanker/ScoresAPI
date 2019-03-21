@@ -1,0 +1,24 @@
+{
+  "scores": [
+    {
+      "name": "Ritwik",
+      "stuID": "161B180",
+      "score": 100
+    },
+    {
+      "name": "Bhanu",
+      "stuID": "161B065",
+      "score": 96
+    },
+    {
+      "name": "Sparsh",
+      "stuID": "161B237",
+      "score": 42
+    },
+    {
+      "name": "Prakhar",
+      "stuID": "171B040",
+      "score": 65
+    }
+  ]
+}
